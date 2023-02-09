@@ -9,7 +9,7 @@ window.addEventListener("load",()=>
         window.console.log("The Name is " + window.document.getElementById("Name").value);
         window.console.log("The Extension is " + window.document.getElementById("Extension").value);
         window.console.log("The Email is " + window.document.getElementById("Email").value);
-        window.console.log("The Department is" + window.document.getElementById("Department").value);      
+        window.console.log("The Department is" + window.document.getElementById("Department ").value);      
     });
   });
 
